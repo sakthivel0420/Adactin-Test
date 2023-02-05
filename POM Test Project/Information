@@ -1,0 +1,3 @@
+To check the sample e-commerce website is being used by www.seleniumframework.com to help practice on a real time e-commerce website. 
+To check the different workflows for adding the products to cart, checking out cart and making the payment etc.
+To automate the workflows using automation scripts and this website is a candidate for the same. Used Selenium WebDriver, Selenium IDE, Cucumber and Java to develop the automation scripts. 
